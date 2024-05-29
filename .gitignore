@@ -1,0 +1,4 @@
+.DS_Store
+.env
+/tmp
+cdefense-ec2-keypair.pem
